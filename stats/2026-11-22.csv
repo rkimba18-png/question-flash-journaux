@@ -1,0 +1,14 @@
+debut_ms;note_id;ord;paquet;reflexion_ms;lecture_ms;argumentaire_vu_en_entier;issue;note_donnee;verdict_tape
+1795343806173;1794158587573;0;MAR::SFAR::2016 – Douleur postopératoire;15685;4616;1;NOTEE;2;PARTIEL
+1795343826857;1793730367119;0;MAR::Autres sociétés::2025 – Sepsis, parcours de soins (HAS);9539;18841;1;NOTEE;3;SANS
+1795343855614;1793820157670;0;MAR::SFAR::2024 – MTEV périopératoire (prévention);8862;4663;1;NOTEE;2;FAUX
+1795343869500;1793787844938;0;MAR::SFAR::2022 – Anesthésie pour thrombectomie (AVC);22576;16680;1;NOTEE;2;SANS
+1795343909152;1793730367793;0;MAR::SFAR::2025 – TCE, prise en charge neurochirurgicale initiale;18614;5704;1;NOTEE;3;JUSTE
+1795343933849;1794469039498;0;MAR::Infectio::Endocardite et matériel endovasculaire;11130;37495;1;NOTEE;2;FAUX
+1795344467922;1794158587765;0;MAR::SFAR::2016 – Protection oculaire en anesthésie et réanimation;57209;5324;1;NOTEE;3;SANS
+1795344530877;1794158587633;0;MAR::SFAR::2016 – Intubation et extubation en réanimation;14084;22121;1;NOTEE;4;PARTIEL
+1795344567430;1793730367253;0;MAR::Autres sociétés::2025 – Sepsis, parcours de soins (HAS);6457;2185;1;NOTEE;4;SANS
+1795344576438;1794469039656;0;MAR::Infectio::Infections ostéo-articulaires;172700;57932;1;NOTEE;2;SANS
+1795344807454;1794158587491;0;MAR::SFAR::2016 – ALR périnerveuse;17675;8147;1;NOTEE;3;JUSTE
+1795344833721;1794177603657;0;MAR::SRLF::2025 – Encéphalopathie aiguë sévère en réanimation;14062;99204;1;NOTEE;2;FAUX
+1795345657929;1794076742709;0;MAR::SFAR::2019 – Brûlé grave à la phase aiguë;16786;8350;1;NOTEE;4;JUSTE
