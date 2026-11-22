@@ -1,0 +1,606 @@
+=== Question Flash — journal exporté le 22/11/2026 12:09 ===
+Appli 1.0.34 · AnkiDroid 2.25.3 · Android 17 (SDK 37) · Nothing A059
+Réglages : actif=true, intervalle=45 min, plage=8h-22h, paquet=Tous les paquets (-2), popup=true, verrou=true, ouvrirAnki=false, chrono=120s, rouvrirBouton=5min, son=Silencieux, réveil=true, pasDansAnki=true, enchaîner=true, bilans=Bilan du soir
+Autorisations : AnkiDroid=true, superposition=true, pleinÉcran=true, usage=true
+État : tâche programmée=true, pop-up=true, écran plein ouvert=false (visible=false), carte en attente=note 1793787844938 ord 0 (popup), Ne pas déranger=false, batterie sans restriction=true
+--- événements (du plus ancien au plus récent) ---
+21/11 20:51:52  tirage : paquet 1792268438701 (choix fixe), tête de file note 1793730367421 ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨1.1⁩mo, ⁨1.5⁩mo]
+21/11 20:51:52  enchaînement : question suivante « Quel délai minimal après la réaction faut-il … » [note 1793730367421, ord 0, paquet 2025 – Hypersensibilité immédiate périopératoire, ouvre 1792268438701]
+21/11 20:51:59  réponse affichée après 6 s « Quel délai minimal après la réaction faut-il … » [note 1793730367421, ord 0, paquet 2025 – Hypersensibilité immédiate périopératoire, ouvre 1792268438701]
+21/11 20:51:59  réponse tapée jugée PARTIEL « Quel délai minimal après la réaction faut-il … » [note 1793730367421, ord 0, paquet 2025 – Hypersensibilité immédiate périopératoire, ouvre 1792268438701]
+21/11 20:52:01  après la note, tête de file du paquet ouvert : note 1794161643296, ord 0, délais [⁨10⁩m, ⁨1.9⁩mo, ⁨2.8⁩mo, ⁨4.6⁩mo]
+21/11 20:52:01  noté Facile en 8 s « Quel délai minimal après la réaction faut-il … » [note 1793730367421, ord 0, paquet 2025 – Hypersensibilité immédiate périopératoire, ouvre 1792268438701] → Enregistré dans Anki ✓
+21/11 20:52:01  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794161643296 ord 0, délais [⁨10⁩m, ⁨1.9⁩mo, ⁨2.8⁩mo, ⁨4.6⁩mo]
+21/11 20:52:01  enchaînement : question suivante « Quel délai maximal pour atteindre une structu… » [note 1794161643296, ord 0, paquet 2015 – Chirurgie ambulatoire en proctologie, ouvre 1792268438701]
+21/11 20:52:17  réponse affichée après 15 s « Quel délai maximal pour atteindre une structu… » [note 1794161643296, ord 0, paquet 2015 – Chirurgie ambulatoire en proctologie, ouvre 1792268438701]
+21/11 20:52:27  après la note, tête de file du paquet ouvert : note 1794469038818, ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨22⁩d, ⁨25⁩d]
+21/11 20:52:27  noté Correct en 25 s « Quel délai maximal pour atteindre une structu… » [note 1794161643296, ord 0, paquet 2015 – Chirurgie ambulatoire en proctologie, ouvre 1792268438701] → Enregistré dans Anki ✓
+21/11 20:52:27  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794469038818 ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨22⁩d, ⁨25⁩d]
+21/11 20:52:27  enchaînement : question suivante « Entérobactérie sensible aux C3G mais à risque… » [note 1794469038818, ord 0, paquet BGN multirésistants, allergie, antifongiques, ouvre 1792268438701]
+21/11 20:52:40  réponse affichée après 13 s « Entérobactérie sensible aux C3G mais à risque… » [note 1794469038818, ord 0, paquet BGN multirésistants, allergie, antifongiques, ouvre 1792268438701]
+21/11 20:52:40  réponse tapée jugée SENS « Entérobactérie sensible aux C3G mais à risque… » [note 1794469038818, ord 0, paquet BGN multirésistants, allergie, antifongiques, ouvre 1792268438701]
+21/11 20:53:11  après la note, tête de file du paquet ouvert : note 1794469039934, ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨1.3⁩mo, ⁨1.7⁩mo]
+21/11 20:53:11  noté Correct en 43 s « Entérobactérie sensible aux C3G mais à risque… » [note 1794469038818, ord 0, paquet BGN multirésistants, allergie, antifongiques, ouvre 1792268438701] → Enregistré dans Anki ✓
+21/11 20:53:11  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794469039934 ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨1.3⁩mo, ⁨1.7⁩mo]
+21/11 20:53:11  enchaînement : question suivante « Chez un patient en sepsis grave ou choc septi… » [note 1794469039934, ord 0, paquet Infections urinaires, ouvre 1792268438701]
+21/11 20:53:19  carte réduite en bouton, réouverture prévue dans 5 min
+21/11 20:58:19  délai de réouverture écoulé : endormi=false, réduite=true
+21/11 20:58:19  carte rouverte depuis le bouton
+21/11 20:58:21  carte réduite en bouton, réouverture prévue dans 5 min
+21/11 21:03:21  délai de réouverture écoulé : endormi=false, réduite=true
+21/11 21:03:21  carte rouverte depuis le bouton
+21/11 21:03:29  carte réduite en bouton, réouverture prévue dans 5 min
+21/11 21:08:29  délai de réouverture écoulé : endormi=false, réduite=true
+21/11 21:08:29  carte rouverte depuis le bouton
+21/11 21:08:33  carte réduite en bouton, réouverture prévue dans 5 min
+21/11 21:13:33  délai de réouverture écoulé : endormi=false, réduite=true
+21/11 21:13:33  carte rouverte depuis le bouton
+21/11 21:13:49  réponse affichée après 1237 s « Chez un patient en sepsis grave ou choc septi… » [note 1794469039934, ord 0, paquet Infections urinaires, ouvre 1792268438701]
+21/11 21:13:49  réponse tapée jugée FAUX « Chez un patient en sepsis grave ou choc septi… » [note 1794469039934, ord 0, paquet Infections urinaires, ouvre 1792268438701]
+21/11 21:13:57  après la note, tête de file du paquet ouvert : note 1794161643426, ord 0, délais [⁨10⁩m, ⁨1.9⁩mo, ⁨2.8⁩mo, ⁨4.7⁩mo]
+21/11 21:13:57  noté Facile en 1241 s « Chez un patient en sepsis grave ou choc septi… » [note 1794469039934, ord 0, paquet Infections urinaires, ouvre 1792268438701] → Enregistré dans Anki ✓
+21/11 21:13:57  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794161643426 ord 0, délais [⁨10⁩m, ⁨1.9⁩mo, ⁨2.8⁩mo, ⁨4.7⁩mo]
+21/11 21:13:57  enchaînement : question suivante « Pour prévenir la néphropathie induite par pro… » [note 1794161643426, ord 0, paquet 2015 – Insuffisance rénale aiguë en périopératoire et en réanimation, ouvre 1792268438701]
+21/11 21:15:44  réponse affichée après 106 s « Pour prévenir la néphropathie induite par pro… » [note 1794161643426, ord 0, paquet 2015 – Insuffisance rénale aiguë en périopératoire et en réanimation, ouvre 1792268438701]
+21/11 21:15:44  réponse tapée jugée PARTIEL « Pour prévenir la néphropathie induite par pro… » [note 1794161643426, ord 0, paquet 2015 – Insuffisance rénale aiguë en périopératoire et en réanimation, ouvre 1792268438701]
+21/11 21:15:46  après la note, tête de file du paquet ouvert : note 1794469039934, ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨1.3⁩mo, ⁨1.7⁩mo]
+21/11 21:15:46  noté Facile en 109 s « Pour prévenir la néphropathie induite par pro… » [note 1794161643426, ord 0, paquet 2015 – Insuffisance rénale aiguë en périopératoire et en réanimation, ouvre 1792268438701] → Enregistré dans Anki ✓
+21/11 21:15:46  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794469039934 ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨1.3⁩mo, ⁨1.7⁩mo]
+21/11 21:15:46  enchaînement : question suivante « Chez un patient en sepsis grave ou choc septi… » [note 1794469039934, ord 0, paquet Infections urinaires, ouvre 1792268438701]
+21/11 21:16:34  réponse affichée après 48 s « Chez un patient en sepsis grave ou choc septi… » [note 1794469039934, ord 0, paquet Infections urinaires, ouvre 1792268438701]
+21/11 21:16:34  réponse tapée jugée PARTIEL « Chez un patient en sepsis grave ou choc septi… » [note 1794469039934, ord 0, paquet Infections urinaires, ouvre 1792268438701]
+21/11 21:16:58  après la note, tête de file du paquet ouvert : note 1794571690786, ord 0, délais [⁨10⁩m, ⁨1.8⁩mo, ⁨2.4⁩mo, ⁨3.6⁩mo]
+21/11 21:16:58  noté Correct en 71 s « Chez un patient en sepsis grave ou choc septi… » [note 1794469039934, ord 0, paquet Infections urinaires, ouvre 1792268438701] → Enregistré dans Anki ✓
+21/11 21:16:58  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794571690786 ord 0, délais [⁨10⁩m, ⁨1.8⁩mo, ⁨2.4⁩mo, ⁨3.6⁩mo]
+21/11 21:16:58  enchaînement : question suivante « Femme de 83 ans, 82 kg, 162 cm, fracture de l… » [note 1794571690786, ord 0, paquet 2023 – Fracture de l'extrémité supérieure du fémur, ouvre 1792268438701]
+21/11 21:17:17  carte réduite en bouton, réouverture prévue dans 5 min
+21/11 21:22:17  délai de réouverture écoulé : endormi=false, réduite=true
+21/11 21:22:17  carte rouverte depuis le bouton
+21/11 21:23:30  écran éteint avec une carte en attente, retour programmé
+21/11 21:24:49  réponse affichée après 470 s « Femme de 83 ans, 82 kg, 162 cm, fracture de l… » [note 1794571690786, ord 0, paquet 2023 – Fracture de l'extrémité supérieure du fémur, ouvre 1792268438701]
+21/11 21:24:49  réponse tapée jugée FAUX « Femme de 83 ans, 82 kg, 162 cm, fracture de l… » [note 1794571690786, ord 0, paquet 2023 – Fracture de l'extrémité supérieure du fémur, ouvre 1792268438701]
+21/11 21:25:13  après la note, tête de file du paquet ouvert : note 1793788601226, ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨1.1⁩mo, ⁨1.6⁩mo]
+21/11 21:25:13  noté Difficile en 493 s « Femme de 83 ans, 82 kg, 162 cm, fracture de l… » [note 1794571690786, ord 0, paquet 2023 – Fracture de l'extrémité supérieure du fémur, ouvre 1792268438701] → Enregistré dans Anki ✓
+21/11 21:25:13  tirage : paquet 1792268438701 (choix fixe), tête de file note 1793788601226 ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨1.1⁩mo, ⁨1.6⁩mo]
+21/11 21:25:13  enchaînement : question suivante « Un test fonctionnel plaquettaire est réalisé … » [note 1793788601226, ord 0, paquet 2018 – Antiplaquettaires en urgence (GIHP/GFHT), ouvre 1792268438701]
+21/11 21:25:24  réponse affichée après 11 s « Un test fonctionnel plaquettaire est réalisé … » [note 1793788601226, ord 0, paquet 2018 – Antiplaquettaires en urgence (GIHP/GFHT), ouvre 1792268438701]
+21/11 21:25:39  chrono en pause (carte réduite ou quittée) avec 0 s restantes
+21/11 21:25:39  carte réduite en bouton, réouverture prévue dans 5 min
+21/11 21:30:39  délai de réouverture écoulé : endormi=false, réduite=true
+21/11 21:30:39  carte rouverte depuis le bouton
+21/11 21:31:05  après la note, tête de file du paquet ouvert : note 1794156188649, ord 0, délais [⁨10⁩m, ⁨1.9⁩mo, ⁨2.7⁩mo, ⁨4.4⁩mo]
+21/11 21:31:05  noté Correct en 352 s « Un test fonctionnel plaquettaire est réalisé … » [note 1793788601226, ord 0, paquet 2018 – Antiplaquettaires en urgence (GIHP/GFHT), ouvre 1792268438701] → Enregistré dans Anki ✓
+21/11 21:31:05  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794156188649 ord 0, délais [⁨10⁩m, ⁨1.9⁩mo, ⁨2.7⁩mo, ⁨4.4⁩mo]
+21/11 21:31:05  enchaînement : question suivante « Avant une intubation ou la pose d'un disposit… » [note 1794156188649, ord 0, paquet 2017 – Intubation difficile et extubation en anesthésie (adulte), ouvre 1792268438701]
+21/11 21:31:14  réponse affichée après 8 s « Avant une intubation ou la pose d'un disposit… » [note 1794156188649, ord 0, paquet 2017 – Intubation difficile et extubation en anesthésie (adulte), ouvre 1792268438701]
+21/11 21:32:23  après la note, tête de file du paquet ouvert : note 1793730367519, ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨21⁩d, ⁨24⁩d]
+21/11 21:32:23  noté Correct en 77 s « Avant une intubation ou la pose d'un disposit… » [note 1794156188649, ord 0, paquet 2017 – Intubation difficile et extubation en anesthésie (adulte), ouvre 1792268438701] → Enregistré dans Anki ✓
+21/11 21:32:23  tirage : paquet 1792268438701 (choix fixe), tête de file note 1793730367519 ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨21⁩d, ⁨24⁩d]
+21/11 21:32:24  enchaînement : question suivante « Quel volume minimal de remplissage à haut déb… » [note 1793730367519, ord 0, paquet 2025 – Hypersensibilité immédiate périopératoire, ouvre 1792268438701]
+21/11 21:32:35  réponse affichée après 11 s « Quel volume minimal de remplissage à haut déb… » [note 1793730367519, ord 0, paquet 2025 – Hypersensibilité immédiate périopératoire, ouvre 1792268438701]
+21/11 21:33:05  après la note, tête de file du paquet ouvert : note 1794489955175, ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨1⁩mo, ⁨1.4⁩mo]
+21/11 21:33:05  noté Difficile en 41 s « Quel volume minimal de remplissage à haut déb… » [note 1793730367519, ord 0, paquet 2025 – Hypersensibilité immédiate périopératoire, ouvre 1792268438701] → Enregistré dans Anki ✓
+21/11 21:33:05  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794489955175 ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨1⁩mo, ⁨1.4⁩mo]
+21/11 21:33:05  enchaînement : question suivante « Quand utiliser des dispositifs de mesure du d… » [note 1794489955175, ord 0, paquet 2025 – Choc et monitorage hémodynamique, ouvre 1792268438701]
+21/11 21:33:20  réponse affichée après 14 s « Quand utiliser des dispositifs de mesure du d… » [note 1794489955175, ord 0, paquet 2025 – Choc et monitorage hémodynamique, ouvre 1792268438701]
+21/11 21:33:20  réponse tapée jugée PARTIEL « Quand utiliser des dispositifs de mesure du d… » [note 1794489955175, ord 0, paquet 2025 – Choc et monitorage hémodynamique, ouvre 1792268438701]
+21/11 21:33:22  après la note, tête de file du paquet ouvert : note 1794161643330, ord 0, délais [⁨10⁩m, ⁨2.1⁩mo, ⁨3⁩mo, ⁨5⁩mo]
+21/11 21:33:22  noté Correct en 16 s « Quand utiliser des dispositifs de mesure du d… » [note 1794489955175, ord 0, paquet 2025 – Choc et monitorage hémodynamique, ouvre 1792268438701] → Enregistré dans Anki ✓
+21/11 21:33:22  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794161643330 ord 0, délais [⁨10⁩m, ⁨2.1⁩mo, ⁨3⁩mo, ⁨5⁩mo]
+21/11 21:33:22  enchaînement : question suivante « Quelle conséquence peut avoir le non-respect … » [note 1794161643330, ord 0, paquet 2015 – Chirurgie ambulatoire en proctologie, ouvre 1792268438701]
+21/11 21:33:40  réponse affichée après 17 s « Quelle conséquence peut avoir le non-respect … » [note 1794161643330, ord 0, paquet 2015 – Chirurgie ambulatoire en proctologie, ouvre 1792268438701]
+21/11 21:33:56  après la note, tête de file du paquet ouvert : note 1793789163380, ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨1.1⁩mo, ⁨1.5⁩mo]
+21/11 21:33:56  noté Correct en 33 s « Quelle conséquence peut avoir le non-respect … » [note 1794161643330, ord 0, paquet 2015 – Chirurgie ambulatoire en proctologie, ouvre 1792268438701] → Enregistré dans Anki ✓
+21/11 21:33:56  tirage : paquet 1792268438701 (choix fixe), tête de file note 1793789163380 ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨1.1⁩mo, ⁨1.5⁩mo]
+21/11 21:33:56  enchaînement : question suivante « Faut-il programmer d'emblée une césarienne ch… » [note 1793789163380, ord 0, paquet 2020 – Pré-éclampsie sévère, ouvre 1792268438701]
+21/11 21:34:04  réponse affichée après 7 s « Faut-il programmer d'emblée une césarienne ch… » [note 1793789163380, ord 0, paquet 2020 – Pré-éclampsie sévère, ouvre 1792268438701]
+21/11 21:34:04  réponse tapée jugée FAUX « Faut-il programmer d'emblée une césarienne ch… » [note 1793789163380, ord 0, paquet 2020 – Pré-éclampsie sévère, ouvre 1792268438701]
+21/11 21:34:07  après la note, tête de file du paquet ouvert : note 1794469637275, ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨20⁩d, ⁨21⁩d]
+21/11 21:34:07  noté Facile en 10 s « Faut-il programmer d'emblée une césarienne ch… » [note 1793789163380, ord 0, paquet 2020 – Pré-éclampsie sévère, ouvre 1792268438701] → Enregistré dans Anki ✓
+21/11 21:34:07  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794469637275 ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨20⁩d, ⁨21⁩d]
+21/11 21:34:07  enchaînement : question suivante « Faut-il prescrire des CGR « CMV négatif » che… » [note 1794469637275, ord 0, paquet 2014 – Transfusion de globules rouges, ouvre 1792268438701]
+21/11 21:34:15  réponse affichée après 8 s « Faut-il prescrire des CGR « CMV négatif » che… » [note 1794469637275, ord 0, paquet 2014 – Transfusion de globules rouges, ouvre 1792268438701]
+21/11 21:34:15  réponse tapée jugée EXACT « Faut-il prescrire des CGR « CMV négatif » che… » [note 1794469637275, ord 0, paquet 2014 – Transfusion de globules rouges, ouvre 1792268438701]
+21/11 21:34:58  bilan du soir envoyé
+21/11 21:34:58  la carte précédente attend encore à l'écran, pas de nouvelle carte.
+21/11 21:35:03  après la note, tête de file du paquet ouvert : note 1794161643300, ord 0, délais [⁨10⁩m, ⁨2.2⁩mo, ⁨3.2⁩mo, ⁨5.2⁩mo]
+21/11 21:35:03  noté Facile en 55 s « Faut-il prescrire des CGR « CMV négatif » che… » [note 1794469637275, ord 0, paquet 2014 – Transfusion de globules rouges, ouvre 1792268438701] → Enregistré dans Anki ✓
+21/11 21:35:03  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794161643300 ord 0, délais [⁨10⁩m, ⁨2.2⁩mo, ⁨3.2⁩mo, ⁨5.2⁩mo]
+21/11 21:35:03  enchaînement : question suivante « Un patient de grand âge est éligible à une ch… » [note 1794161643300, ord 0, paquet 2015 – Chirurgie ambulatoire en proctologie, ouvre 1792268438701]
+21/11 21:35:12  réponse affichée après 9 s « Un patient de grand âge est éligible à une ch… » [note 1794161643300, ord 0, paquet 2015 – Chirurgie ambulatoire en proctologie, ouvre 1792268438701]
+21/11 21:35:16  après la note, tête de file du paquet ouvert : note 1794161643374, ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨1.3⁩mo, ⁨1.7⁩mo]
+21/11 21:35:16  noté Facile en 13 s « Un patient de grand âge est éligible à une ch… » [note 1794161643300, ord 0, paquet 2015 – Chirurgie ambulatoire en proctologie, ouvre 1792268438701] → Enregistré dans Anki ✓
+21/11 21:35:17  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794161643374 ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨1.3⁩mo, ⁨1.7⁩mo]
+21/11 21:35:17  enchaînement : question suivante « Après une chirurgie hémorroïdaire ou une rése… » [note 1794161643374, ord 0, paquet 2015 – Chirurgie ambulatoire en proctologie, ouvre 1792268438701]
+21/11 21:35:30  réponse affichée après 13 s « Après une chirurgie hémorroïdaire ou une rése… » [note 1794161643374, ord 0, paquet 2015 – Chirurgie ambulatoire en proctologie, ouvre 1792268438701]
+21/11 21:35:32  après la note, tête de file du paquet ouvert : note 1793820157320, ord 0, délais [⁨10⁩m, ⁨2.1⁩mo, ⁨3⁩mo, ⁨5⁩mo]
+21/11 21:35:32  noté Facile en 15 s « Après une chirurgie hémorroïdaire ou une rése… » [note 1794161643374, ord 0, paquet 2015 – Chirurgie ambulatoire en proctologie, ouvre 1792268438701] → Enregistré dans Anki ✓
+21/11 21:35:32  tirage : paquet 1792268438701 (choix fixe), tête de file note 1793820157320 ord 0, délais [⁨10⁩m, ⁨2.1⁩mo, ⁨3⁩mo, ⁨5⁩mo]
+21/11 21:35:32  enchaînement : question suivante « Quel entretien avec les proches évoque le don… » [note 1793820157320, ord 0, paquet 2024 – Démarches anticipées en vue de don d'organes (ABM), ouvre 1792268438701]
+21/11 21:35:34  carte réduite en bouton, réouverture prévue dans 5 min
+21/11 21:40:34  délai de réouverture écoulé : endormi=false, réduite=true
+21/11 21:40:34  carte rouverte depuis le bouton
+21/11 21:40:58  réponse affichée après 325 s « Quel entretien avec les proches évoque le don… » [note 1793820157320, ord 0, paquet 2024 – Démarches anticipées en vue de don d'organes (ABM), ouvre 1792268438701]
+21/11 21:41:03  après la note, tête de file du paquet ouvert : note 1794177603561, ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨1.1⁩mo, ⁨1.4⁩mo]
+21/11 21:41:03  noté Correct en 329 s « Quel entretien avec les proches évoque le don… » [note 1793820157320, ord 0, paquet 2024 – Démarches anticipées en vue de don d'organes (ABM), ouvre 1792268438701] → Enregistré dans Anki ✓
+21/11 21:41:03  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794177603561 ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨1.1⁩mo, ⁨1.4⁩mo]
+21/11 21:41:03  enchaînement : question suivante « Un adulte ou un enfant drépanocytaire nécessi… » [note 1794177603561, ord 0, paquet 2025 – Drépanocytose : urgences et réanimation, ouvre 1792268438701]
+21/11 21:41:10  carte réduite en bouton, réouverture prévue dans 5 min
+21/11 21:46:10  délai de réouverture écoulé : endormi=false, réduite=true
+21/11 21:46:10  carte rouverte depuis le bouton
+21/11 21:48:24  réponse affichée après 440 s « Un adulte ou un enfant drépanocytaire nécessi… » [note 1794177603561, ord 0, paquet 2025 – Drépanocytose : urgences et réanimation, ouvre 1792268438701]
+21/11 21:48:27  après la note, tête de file du paquet ouvert : note 1794161643390, ord 0, délais [⁨10⁩m, ⁨1.9⁩mo, ⁨2.8⁩mo, ⁨4.7⁩mo]
+21/11 21:48:27  noté Correct en 443 s « Un adulte ou un enfant drépanocytaire nécessi… » [note 1794177603561, ord 0, paquet 2025 – Drépanocytose : urgences et réanimation, ouvre 1792268438701] → Enregistré dans Anki ✓
+21/11 21:48:27  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794161643390 ord 0, délais [⁨10⁩m, ⁨1.9⁩mo, ⁨2.8⁩mo, ⁨4.7⁩mo]
+21/11 21:48:27  enchaînement : question suivante « Chez un patient de réanimation, quelle méthod… » [note 1794161643390, ord 0, paquet 2015 – Insuffisance rénale aiguë en périopératoire et en réanimation, ouvre 1792268438701]
+21/11 21:48:38  réponse affichée après 10 s « Chez un patient de réanimation, quelle méthod… » [note 1794161643390, ord 0, paquet 2015 – Insuffisance rénale aiguë en périopératoire et en réanimation, ouvre 1792268438701]
+21/11 21:48:38  réponse tapée jugée FAUX « Chez un patient de réanimation, quelle méthod… » [note 1794161643390, ord 0, paquet 2015 – Insuffisance rénale aiguë en périopératoire et en réanimation, ouvre 1792268438701]
+21/11 21:48:45  après la note, tête de file du paquet ouvert : note 1794469040530, ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨22⁩d, ⁨25⁩d]
+21/11 21:48:45  noté Correct en 17 s « Chez un patient de réanimation, quelle méthod… » [note 1794161643390, ord 0, paquet 2015 – Insuffisance rénale aiguë en périopératoire et en réanimation, ouvre 1792268438701] → Enregistré dans Anki ✓
+21/11 21:48:45  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794469040530 ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨22⁩d, ⁨25⁩d]
+21/11 21:48:45  enchaînement : question suivante « Après un AVC, quelle classe d'antihypertenseu… » [note 1794469040530, ord 0, paquet Pneumonies d'inhalation, ouvre 1792268438701]
+21/11 21:49:01  réponse affichée après 15 s « Après un AVC, quelle classe d'antihypertenseu… » [note 1794469040530, ord 0, paquet Pneumonies d'inhalation, ouvre 1792268438701]
+21/11 21:49:01  réponse tapée jugée FAUX « Après un AVC, quelle classe d'antihypertenseu… » [note 1794469040530, ord 0, paquet Pneumonies d'inhalation, ouvre 1792268438701]
+21/11 21:49:42  après la note, tête de file du paquet ouvert : note 1794076742741, ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨1.1⁩mo, ⁨1.5⁩mo]
+21/11 21:49:42  noté Difficile en 56 s « Après un AVC, quelle classe d'antihypertenseu… » [note 1794469040530, ord 0, paquet Pneumonies d'inhalation, ouvre 1792268438701] → Enregistré dans Anki ✓
+21/11 21:49:42  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794076742741 ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨1.1⁩mo, ⁨1.5⁩mo]
+21/11 21:49:42  enchaînement : question suivante « Quand contacter un centre expert de l'HM aprè… » [note 1794076742741, ord 0, paquet 2019 – Hyperthermie maligne, ouvre 1792268438701]
+21/11 21:49:43  carte réduite en bouton, réouverture prévue dans 5 min
+21/11 21:54:43  délai de réouverture écoulé : endormi=false, réduite=true
+21/11 21:54:43  carte rouverte depuis le bouton
+21/11 22:20:55  hors plage horaire, rien envoyé.
+21/11 23:04:45  hors plage horaire, rien envoyé.
+21/11 23:50:19  hors plage horaire, rien envoyé.
+22/11 00:35:58  hors plage horaire, rien envoyé.
+22/11 01:21:38  hors plage horaire, rien envoyé.
+22/11 02:04:52  hors plage horaire, rien envoyé.
+22/11 02:49:35  hors plage horaire, rien envoyé.
+22/11 03:35:31  hors plage horaire, rien envoyé.
+22/11 04:20:18  hors plage horaire, rien envoyé.
+22/11 05:34:38  écran éteint avec une carte en attente, retour programmé
+22/11 05:35:49  écran éteint avec une carte en attente
+22/11 05:39:38  délai de réouverture écoulé : endormi=true, réduite=false
+22/11 05:39:38  téléphone verrouillé : carte gardée à l'écran
+22/11 05:44:38  délai de réouverture écoulé : endormi=true, réduite=false
+22/11 05:44:38  téléphone verrouillé : carte gardée à l'écran
+22/11 05:49:03  hors plage horaire, rien envoyé.
+22/11 05:49:38  délai de réouverture écoulé : endormi=true, réduite=false
+22/11 05:49:38  téléphone verrouillé : carte gardée à l'écran
+22/11 05:54:38  délai de réouverture écoulé : endormi=true, réduite=false
+22/11 05:54:38  téléphone verrouillé : carte gardée à l'écran
+22/11 05:57:16  hors plage horaire, rien envoyé.
+22/11 05:59:38  délai de réouverture écoulé : endormi=true, réduite=false
+22/11 05:59:38  téléphone verrouillé : carte gardée à l'écran
+22/11 06:00:14  écran éteint avec une carte en attente
+22/11 06:01:47  écran éteint avec une carte en attente
+22/11 06:04:38  délai de réouverture écoulé : endormi=true, réduite=false
+22/11 06:04:38  téléphone verrouillé : carte gardée à l'écran
+22/11 06:09:38  délai de réouverture écoulé : endormi=true, réduite=false
+22/11 06:09:38  téléphone verrouillé : carte gardée à l'écran
+22/11 06:14:38  carte réduite en bouton, réouverture prévue dans 5 min
+22/11 06:19:38  délai de réouverture écoulé : endormi=false, réduite=true
+22/11 06:19:38  carte rouverte depuis le bouton
+22/11 06:25:01  écran éteint avec une carte en attente, retour programmé
+22/11 06:30:01  délai de réouverture écoulé : endormi=true, réduite=false
+22/11 06:30:01  téléphone verrouillé : carte gardée à l'écran
+22/11 06:34:42  hors plage horaire, rien envoyé.
+22/11 06:35:01  délai de réouverture écoulé : endormi=true, réduite=false
+22/11 06:35:01  téléphone verrouillé : carte gardée à l'écran
+22/11 06:35:29  carte réduite en bouton, réouverture prévue dans 5 min
+22/11 06:40:29  délai de réouverture écoulé : endormi=false, réduite=true
+22/11 06:40:29  carte rouverte depuis le bouton
+22/11 06:47:02  carte réduite en bouton, réouverture prévue dans 5 min
+22/11 06:47:16  carte rouverte depuis le bouton
+22/11 06:47:17  carte réduite en bouton, réouverture prévue dans 5 min
+22/11 06:47:47  écran éteint avec une carte en attente
+22/11 06:48:12  écran éteint avec une carte en attente
+22/11 06:52:17  délai de réouverture écoulé : endormi=false, réduite=true
+22/11 06:52:18  carte rouverte depuis le bouton
+22/11 06:52:21  carte réduite en bouton, réouverture prévue dans 5 min
+22/11 06:57:21  délai de réouverture écoulé : endormi=false, réduite=true
+22/11 06:57:21  carte rouverte depuis le bouton
+22/11 06:59:44  carte réduite en bouton, réouverture prévue dans 5 min
+22/11 07:04:44  délai de réouverture écoulé : endormi=false, réduite=true
+22/11 07:04:44  carte rouverte depuis le bouton
+22/11 07:04:54  carte réduite en bouton, réouverture prévue dans 5 min
+22/11 07:09:54  délai de réouverture écoulé : endormi=false, réduite=true
+22/11 07:09:54  carte rouverte depuis le bouton
+22/11 07:10:19  carte réduite en bouton, réouverture prévue dans 5 min
+22/11 07:12:42  écran éteint avec une carte en attente
+22/11 07:15:42  délai de réouverture écoulé : endormi=false, réduite=true
+22/11 07:15:42  carte rouverte depuis le bouton
+22/11 07:15:44  carte réduite en bouton, réouverture prévue dans 5 min
+22/11 07:20:04  hors plage horaire, rien envoyé.
+22/11 07:20:44  délai de réouverture écoulé : endormi=false, réduite=true
+22/11 07:20:44  carte rouverte depuis le bouton
+22/11 07:34:02  carte réduite en bouton, réouverture prévue dans 5 min
+22/11 07:39:02  délai de réouverture écoulé : endormi=false, réduite=true
+22/11 07:39:02  carte rouverte depuis le bouton
+22/11 07:44:33  écran éteint avec une carte en attente, retour programmé
+22/11 07:49:51  délai de réouverture écoulé : endormi=true, réduite=false
+22/11 07:49:51  téléphone verrouillé : carte gardée à l'écran
+22/11 07:55:01  délai de réouverture écoulé : endormi=true, réduite=false
+22/11 07:55:01  téléphone verrouillé : carte gardée à l'écran
+22/11 08:00:32  écran éteint avec une carte en attente
+22/11 08:01:55  délai de réouverture écoulé : endormi=true, réduite=false
+22/11 08:01:55  téléphone verrouillé : carte gardée à l'écran
+22/11 08:04:23  carte réduite en bouton, réouverture prévue dans 5 min
+22/11 08:04:36  la carte précédente attend encore à l'écran, pas de nouvelle carte.
+22/11 08:08:37  écran éteint avec une carte en attente
+22/11 08:09:23  délai de réouverture écoulé : endormi=true, réduite=true
+22/11 08:09:23  téléphone verrouillé : carte gardée à l'écran (bouton ?)
+22/11 08:14:31  délai de réouverture écoulé : endormi=true, réduite=true
+22/11 08:14:31  téléphone verrouillé : carte gardée à l'écran (bouton ?)
+22/11 08:18:18  écran éteint avec une carte en attente
+22/11 08:19:31  délai de réouverture écoulé : endormi=true, réduite=true
+22/11 08:19:31  téléphone verrouillé : carte gardée à l'écran (bouton ?)
+22/11 08:24:51  délai de réouverture écoulé : endormi=true, réduite=true
+22/11 08:24:51  téléphone verrouillé : carte gardée à l'écran (bouton ?)
+22/11 08:27:22  écran éteint avec une carte en attente
+22/11 08:28:08  écran éteint avec une carte en attente
+22/11 08:30:26  délai de réouverture écoulé : endormi=true, réduite=true
+22/11 08:30:26  téléphone verrouillé : carte gardée à l'écran (bouton ?)
+22/11 08:33:25  écran éteint avec une carte en attente
+22/11 08:34:12  écran éteint avec une carte en attente
+22/11 08:34:32  écran éteint avec une carte en attente
+22/11 08:34:47  écran éteint avec une carte en attente
+22/11 08:35:26  délai de réouverture écoulé : endormi=true, réduite=true
+22/11 08:35:26  téléphone verrouillé : carte gardée à l'écran (bouton ?)
+22/11 08:40:56  délai de réouverture écoulé : endormi=true, réduite=true
+22/11 08:40:56  téléphone verrouillé : carte gardée à l'écran (bouton ?)
+22/11 08:45:56  délai de réouverture écoulé : endormi=true, réduite=true
+22/11 08:45:56  téléphone verrouillé : carte gardée à l'écran (bouton ?)
+22/11 08:49:36  la carte précédente attend encore à l'écran, pas de nouvelle carte.
+22/11 08:50:56  délai de réouverture écoulé : endormi=true, réduite=true
+22/11 08:50:56  téléphone verrouillé : carte gardée à l'écran (bouton ?)
+22/11 08:55:56  délai de réouverture écoulé : endormi=true, réduite=true
+22/11 08:55:56  téléphone verrouillé : carte gardée à l'écran (bouton ?)
+22/11 09:00:56  délai de réouverture écoulé : endormi=true, réduite=true
+22/11 09:00:56  téléphone verrouillé : carte gardée à l'écran (bouton ?)
+22/11 09:02:18  écran éteint avec une carte en attente
+22/11 09:02:43  écran éteint avec une carte en attente
+22/11 09:05:56  carte rouverte depuis le bouton
+22/11 09:06:00  écran éteint avec une carte en attente, retour programmé
+22/11 09:10:24  carte réduite en bouton, réouverture prévue dans 5 min
+22/11 09:10:25  carte rouverte depuis le bouton
+22/11 09:10:29  réponse affichée après 40846 s « Quand contacter un centre expert de l'HM aprè… » [note 1794076742741, ord 0, paquet 2019 – Hyperthermie maligne, ouvre 1792268438701]
+22/11 09:10:31  après la note, tête de file du paquet ouvert : note 1793730367519, ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨28⁩d, ⁨1⁩mo]
+22/11 09:10:31  noté Facile en 40848 s « Quand contacter un centre expert de l'HM aprè… » [note 1794076742741, ord 0, paquet 2019 – Hyperthermie maligne, ouvre 1792268438701] → Enregistré dans Anki ✓
+22/11 09:10:31  tirage : paquet 1792268438701 (choix fixe), tête de file note 1793730367519 ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨28⁩d, ⁨1⁩mo]
+22/11 09:10:31  enchaînement : question suivante « Quel volume minimal de remplissage à haut déb… » [note 1793730367519, ord 0, paquet 2025 – Hypersensibilité immédiate périopératoire, ouvre 1792268438701]
+22/11 09:10:44  réponse affichée après 13 s « Quel volume minimal de remplissage à haut déb… » [note 1793730367519, ord 0, paquet 2025 – Hypersensibilité immédiate périopératoire, ouvre 1792268438701]
+22/11 09:10:44  réponse tapée jugée SENS « Quel volume minimal de remplissage à haut déb… » [note 1793730367519, ord 0, paquet 2025 – Hypersensibilité immédiate périopératoire, ouvre 1792268438701]
+22/11 09:10:46  après la note, tête de file du paquet ouvert : note 1794469040530, ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨28⁩d, ⁨1⁩mo]
+22/11 09:10:46  noté Facile en 14 s « Quel volume minimal de remplissage à haut déb… » [note 1793730367519, ord 0, paquet 2025 – Hypersensibilité immédiate périopératoire, ouvre 1792268438701] → Enregistré dans Anki ✓
+22/11 09:10:46  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794469040530 ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨28⁩d, ⁨1⁩mo]
+22/11 09:10:46  enchaînement : question suivante « Après un AVC, quelle classe d'antihypertenseu… » [note 1794469040530, ord 0, paquet Pneumonies d'inhalation, ouvre 1792268438701]
+22/11 09:10:55  réponse affichée après 8 s « Après un AVC, quelle classe d'antihypertenseu… » [note 1794469040530, ord 0, paquet Pneumonies d'inhalation, ouvre 1792268438701]
+22/11 09:10:55  réponse tapée jugée EXACT « Après un AVC, quelle classe d'antihypertenseu… » [note 1794469040530, ord 0, paquet Pneumonies d'inhalation, ouvre 1792268438701]
+22/11 09:10:57  après la note, tête de file du paquet ouvert : note 1793820157882, ord 0, délais [⁨10⁩m, ⁨1.2⁩mo, ⁨1.5⁩mo, ⁨2.2⁩mo]
+22/11 09:10:57  noté Facile en 10 s « Après un AVC, quelle classe d'antihypertenseu… » [note 1794469040530, ord 0, paquet Pneumonies d'inhalation, ouvre 1792268438701] → Enregistré dans Anki ✓
+22/11 09:10:57  tirage : paquet 1792268438701 (choix fixe), tête de file note 1793820157882 ord 0, délais [⁨10⁩m, ⁨1.2⁩mo, ⁨1.5⁩mo, ⁨2.2⁩mo]
+22/11 09:10:57  enchaînement : question suivante « Lorsqu'un MAR est responsable de deux patient… » [note 1793820157882, ord 0, paquet 2024 – Ressources humaines en anesthésie programmée, ouvre 1792268438701]
+22/11 09:11:01  réponse affichée après 4 s « Lorsqu'un MAR est responsable de deux patient… » [note 1793820157882, ord 0, paquet 2024 – Ressources humaines en anesthésie programmée, ouvre 1792268438701]
+22/11 09:11:04  après la note, tête de file du paquet ouvert : note 1794076742741, ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨1.3⁩mo, ⁨1.9⁩mo]
+22/11 09:11:04  noté Facile en 7 s « Lorsqu'un MAR est responsable de deux patient… » [note 1793820157882, ord 0, paquet 2024 – Ressources humaines en anesthésie programmée, ouvre 1792268438701] → Enregistré dans Anki ✓
+22/11 09:11:04  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794076742741 ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨1.3⁩mo, ⁨1.9⁩mo]
+22/11 09:11:04  enchaînement : question suivante « Quand contacter un centre expert de l'HM aprè… » [note 1794076742741, ord 0, paquet 2019 – Hyperthermie maligne, ouvre 1792268438701]
+22/11 09:11:13  réponse affichée après 8 s « Quand contacter un centre expert de l'HM aprè… » [note 1794076742741, ord 0, paquet 2019 – Hyperthermie maligne, ouvre 1792268438701]
+22/11 09:11:13  réponse tapée jugée EXACT « Quand contacter un centre expert de l'HM aprè… » [note 1794076742741, ord 0, paquet 2019 – Hyperthermie maligne, ouvre 1792268438701]
+22/11 09:11:14  après la note, tête de file du paquet ouvert : note 1794469038966, ord 0, délais [⁨10⁩m, ⁨29⁩d, ⁨1.4⁩mo, ⁨2.1⁩mo]
+22/11 09:11:14  noté Facile en 9 s « Quand contacter un centre expert de l'HM aprè… » [note 1794076742741, ord 0, paquet 2019 – Hyperthermie maligne, ouvre 1792268438701] → Enregistré dans Anki ✓
+22/11 09:11:14  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794469038966 ord 0, délais [⁨10⁩m, ⁨29⁩d, ⁨1.4⁩mo, ⁨2.1⁩mo]
+22/11 09:11:14  enchaînement : question suivante « Quel ratio pic sur CMI vise-t-on pour obtenir… » [note 1794469038966, ord 0, paquet Bon usage – aminosides, fluoroquinolones, macrolides, ouvre 1792268438701]
+22/11 09:11:15  carte réduite en bouton, réouverture prévue dans 5 min
+22/11 09:11:38  mise à jour : v1.0.33 téléchargée, installation demandée
+22/11 09:14:23  écran éteint avec une carte en attente
+22/11 09:14:45  écran éteint avec une carte en attente
+22/11 09:14:49  écran éteint avec une carte en attente
+22/11 09:15:25  écran éteint avec une carte en attente
+22/11 09:16:15  délai de réouverture écoulé : endormi=true, réduite=true
+22/11 09:16:15  téléphone verrouillé : carte gardée à l'écran (bouton ?)
+22/11 09:17:33  écran éteint avec une carte en attente
+22/11 09:18:07  écran éteint avec une carte en attente
+22/11 09:18:09  écran éteint avec une carte en attente
+22/11 09:18:22  écran éteint avec une carte en attente
+22/11 09:21:28  délai de réouverture écoulé : endormi=true, réduite=true
+22/11 09:21:28  téléphone verrouillé : carte gardée à l'écran (bouton ?)
+22/11 09:26:28  délai de réouverture écoulé : endormi=true, réduite=true
+22/11 09:26:28  téléphone verrouillé : carte gardée à l'écran (bouton ?)
+22/11 09:30:58  écran éteint avec une carte en attente
+22/11 09:31:28  délai de réouverture écoulé : endormi=true, réduite=true
+22/11 09:31:28  téléphone verrouillé : carte gardée à l'écran (bouton ?)
+22/11 09:34:55  la carte précédente attend encore à l'écran, pas de nouvelle carte.
+22/11 09:37:02  délai de réouverture écoulé : endormi=false, réduite=true
+22/11 09:37:02  carte rouverte depuis le bouton
+22/11 09:38:32  réponse affichée après 1637 s « Quel ratio pic sur CMI vise-t-on pour obtenir… » [note 1794469038966, ord 0, paquet Bon usage – aminosides, fluoroquinolones, macrolides, ouvre 1792268438701]
+22/11 09:38:32  réponse tapée jugée PARTIEL « Quel ratio pic sur CMI vise-t-on pour obtenir… » [note 1794469038966, ord 0, paquet Bon usage – aminosides, fluoroquinolones, macrolides, ouvre 1792268438701]
+22/11 09:38:35  après la note, tête de file du paquet ouvert : note 1794141145418, ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨1.4⁩mo, ⁨1.9⁩mo]
+22/11 09:38:35  noté Facile en 1639 s « Quel ratio pic sur CMI vise-t-on pour obtenir… » [note 1794469038966, ord 0, paquet Bon usage – aminosides, fluoroquinolones, macrolides, ouvre 1792268438701] → Enregistré dans Anki ✓
+22/11 09:38:35  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794141145418 ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨1.4⁩mo, ⁨1.9⁩mo]
+22/11 09:38:35  enchaînement : question suivante « Le bloc résiduel est très faible au moment de… » [note 1794141145418, ord 0, paquet 2018 – Curarisation et décurarisation, ouvre 1792268438701]
+22/11 09:38:46  réponse affichée après 10 s « Le bloc résiduel est très faible au moment de… » [note 1794141145418, ord 0, paquet 2018 – Curarisation et décurarisation, ouvre 1792268438701]
+22/11 09:38:46  réponse tapée jugée PARTIEL « Le bloc résiduel est très faible au moment de… » [note 1794141145418, ord 0, paquet 2018 – Curarisation et décurarisation, ouvre 1792268438701]
+22/11 09:38:47  après la note, tête de file du paquet ouvert : note 1794428476171, ord 0, délais [⁨10⁩m, ⁨1.8⁩mo, ⁨2.4⁩mo, ⁨3.8⁩mo]
+22/11 09:38:47  noté Facile en 12 s « Le bloc résiduel est très faible au moment de… » [note 1794141145418, ord 0, paquet 2018 – Curarisation et décurarisation, ouvre 1792268438701] → Enregistré dans Anki ✓
+22/11 09:38:48  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794428476171 ord 0, délais [⁨10⁩m, ⁨1.8⁩mo, ⁨2.4⁩mo, ⁨3.8⁩mo]
+22/11 09:38:48  enchaînement : question suivante « En péri-procédure chez un patient sous antico… » [note 1794428476171, ord 0, paquet 2026 – Anticoagulants et procédure invasive programmée, ouvre 1792268438701]
+22/11 09:38:56  réponse affichée après 8 s « En péri-procédure chez un patient sous antico… » [note 1794428476171, ord 0, paquet 2026 – Anticoagulants et procédure invasive programmée, ouvre 1792268438701]
+22/11 09:38:56  réponse tapée jugée SENS « En péri-procédure chez un patient sous antico… » [note 1794428476171, ord 0, paquet 2026 – Anticoagulants et procédure invasive programmée, ouvre 1792268438701]
+22/11 09:38:58  après la note, tête de file du paquet ouvert : note 1794469637541, ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨24⁩d, ⁨28⁩d]
+22/11 09:38:58  noté Facile en 9 s « En péri-procédure chez un patient sous antico… » [note 1794428476171, ord 0, paquet 2026 – Anticoagulants et procédure invasive programmée, ouvre 1792268438701] → Enregistré dans Anki ✓
+22/11 09:38:58  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794469637541 ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨24⁩d, ⁨28⁩d]
+22/11 09:38:58  enchaînement : question suivante « Un traumatisé thoracique en détresse respirat… » [note 1794469637541, ord 0, paquet 2015 – Traumatisme thoracique, ouvre 1792268438701]
+22/11 09:41:53  écran éteint avec une carte en attente, retour programmé
+22/11 09:44:04  écran éteint avec une carte en attente
+22/11 09:44:34  écran éteint avec une carte en attente
+22/11 09:44:45  écran éteint avec une carte en attente
+22/11 09:46:35  écran éteint avec une carte en attente
+22/11 09:46:54  délai de réouverture écoulé : endormi=true, réduite=false
+22/11 09:46:54  téléphone verrouillé : carte gardée à l'écran
+22/11 09:49:19  écran éteint avec une carte en attente
+22/11 09:52:05  délai de réouverture écoulé : endormi=true, réduite=false
+22/11 09:52:05  téléphone verrouillé : carte gardée à l'écran
+22/11 09:56:09  carte réduite en bouton, réouverture prévue dans 5 min
+22/11 09:59:11  carte rouverte depuis le bouton
+22/11 09:59:37  réponse affichée après 1239 s « Un traumatisé thoracique en détresse respirat… » [note 1794469637541, ord 0, paquet 2015 – Traumatisme thoracique, ouvre 1792268438701]
+22/11 09:59:46  après la note, tête de file du paquet ouvert : note 1794575792243, ord 0, délais [⁨10⁩m, ⁨1.5⁩mo, ⁨1.8⁩mo, ⁨2.6⁩mo]
+22/11 09:59:46  noté Facile en 1247 s « Un traumatisé thoracique en détresse respirat… » [note 1794469637541, ord 0, paquet 2015 – Traumatisme thoracique, ouvre 1792268438701] → Enregistré dans Anki ✓
+22/11 09:59:46  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794575792243 ord 0, délais [⁨10⁩m, ⁨1.5⁩mo, ⁨1.8⁩mo, ⁨2.6⁩mo]
+22/11 09:59:46  enchaînement : question suivante « Les antagonistes des récepteurs de la vasopre… » [note 1794575792243, ord 0, paquet 2014 – Hyponatrémie (ESE/ESICM/ERBP), ouvre 1792268438701]
+22/11 10:00:00  réponse affichée après 14 s « Les antagonistes des récepteurs de la vasopre… » [note 1794575792243, ord 0, paquet 2014 – Hyponatrémie (ESE/ESICM/ERBP), ouvre 1792268438701]
+22/11 10:00:06  après la note, tête de file du paquet ouvert : note 1794141145302, ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨1.5⁩mo, ⁨2.1⁩mo]
+22/11 10:00:06  noté Facile en 19 s « Les antagonistes des récepteurs de la vasopre… » [note 1794575792243, ord 0, paquet 2014 – Hyponatrémie (ESE/ESICM/ERBP), ouvre 1792268438701] → Enregistré dans Anki ✓
+22/11 10:00:06  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794141145302 ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨1.5⁩mo, ⁨2.1⁩mo]
+22/11 10:00:06  enchaînement : question suivante « Chez un patient sous AAP porteur d'un cathéte… » [note 1794141145302, ord 0, paquet 2018 – Antiplaquettaires et procédure programmée (GIHP/GFHT), ouvre 1792268438701]
+22/11 10:02:27  réponse affichée après 140 s « Chez un patient sous AAP porteur d'un cathéte… » [note 1794141145302, ord 0, paquet 2018 – Antiplaquettaires et procédure programmée (GIHP/GFHT), ouvre 1792268438701]
+22/11 10:02:46  écran éteint avec une carte en attente, retour programmé
+22/11 10:02:49  écran éteint avec une carte en attente
+22/11 10:03:01  écran éteint avec une carte en attente
+22/11 10:05:00  fermeture sans note (Fermer, appui à côté ou retour) « Chez un patient sous AAP porteur d'un cathéte… » [note 1794141145302, ord 0, paquet 2018 – Antiplaquettaires et procédure programmée (GIHP/GFHT), ouvre 1792268438701]
+22/11 10:05:00  pop-up retiré
+22/11 10:05:00  service de premier plan arrêté
+22/11 10:20:08  tirage : paquet 1792268438701 (choix tous), tête de file note 1794158587671 ord 0, délais [⁨10⁩m, ⁨16⁩d, ⁨24⁩d, ⁨1.2⁩mo]
+22/11 10:20:08  nouvelle carte, écran réveillé (2016 – Intubation et extubation en réanimation) « Chez un patient ventilé plus de 48 heures, qu… » [note 1794158587671, ord 0, paquet 2016 – Intubation et extubation en réanimation, ouvre 1792268438701]
+22/11 10:20:08  écran plein ouvert : carte annoncée toujours due [note 1794158587671, paquet 1792268438701]
+22/11 10:33:47  réponse affichée après 818 s « Chez un patient ventilé plus de 48 heures, qu… » [note 1794158587671, ord 0, paquet 2016 – Intubation et extubation en réanimation, ouvre 1792268438701]
+22/11 10:33:51  après la note, tête de file du paquet ouvert : note 1794141145302, ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨1.5⁩mo, ⁨2.1⁩mo]
+22/11 10:33:51  noté Facile en 822 s « Chez un patient ventilé plus de 48 heures, qu… » [note 1794158587671, ord 0, paquet 2016 – Intubation et extubation en réanimation, ouvre 1792268438701] → Enregistré dans Anki ✓
+22/11 10:33:51  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794141145302 ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨1.5⁩mo, ⁨2.1⁩mo]
+22/11 10:33:51  enchaînement (plein écran) : question suivante « Chez un patient sous AAP porteur d'un cathéte… » [note 1794141145302, ord 0, paquet 2018 – Antiplaquettaires et procédure programmée (GIHP/GFHT), ouvre 1792268438701]
+22/11 10:33:54  réponse affichée après 3 s « Chez un patient sous AAP porteur d'un cathéte… » [note 1794141145302, ord 0, paquet 2018 – Antiplaquettaires et procédure programmée (GIHP/GFHT), ouvre 1792268438701]
+22/11 10:33:59  après la note, tête de file du paquet ouvert : note 1794161643424, ord 0, délais [⁨10⁩m, ⁨2.2⁩mo, ⁨3⁩mo, ⁨4.8⁩mo]
+22/11 10:33:59  noté Facile en 8 s « Chez un patient sous AAP porteur d'un cathéte… » [note 1794141145302, ord 0, paquet 2018 – Antiplaquettaires et procédure programmée (GIHP/GFHT), ouvre 1792268438701] → Enregistré dans Anki ✓
+22/11 10:33:59  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794161643424 ord 0, délais [⁨10⁩m, ⁨2.2⁩mo, ⁨3⁩mo, ⁨4.8⁩mo]
+22/11 10:33:59  enchaînement (plein écran) : question suivante « Un patient à risque de néphropathie doit rece… » [note 1794161643424, ord 0, paquet 2015 – Insuffisance rénale aiguë en périopératoire et en réanimation, ouvre 1792268438701]
+22/11 10:34:01  écran plein quitté sans réponse (Accueil, autre appli ou écran éteint)
+22/11 11:04:53  une carte attend encore sur l'écran plein (ramenée au premier plan), pas de nouvelle carte.
+22/11 11:04:53  écran plein de nouveau visible
+22/11 11:06:14  pop-up réduit en bouton « Un patient à risque de néphropathie doit rece… » [note 1794161643424, ord 0, paquet 2015 – Insuffisance rénale aiguë en périopératoire et en réanimation, ouvre 1792268438701]
+22/11 11:06:14  carte réduite en bouton, réouverture prévue dans 5 min
+22/11 11:11:14  délai de réouverture écoulé : endormi=false, réduite=true
+22/11 11:11:14  carte rouverte depuis le bouton
+22/11 11:11:32  réponse affichée après 317 s « Un patient à risque de néphropathie doit rece… » [note 1794161643424, ord 0, paquet 2015 – Insuffisance rénale aiguë en périopératoire et en réanimation, ouvre 1792268438701]
+22/11 11:11:32  réponse tapée jugée FAUX « Un patient à risque de néphropathie doit rece… » [note 1794161643424, ord 0, paquet 2015 – Insuffisance rénale aiguë en périopératoire et en réanimation, ouvre 1792268438701]
+22/11 11:12:28  après la note, tête de file du paquet ouvert : note 1794156188589, ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨1.1⁩mo, ⁨1.5⁩mo]
+22/11 11:12:28  noté Difficile en 373 s « Un patient à risque de néphropathie doit rece… » [note 1794161643424, ord 0, paquet 2015 – Insuffisance rénale aiguë en périopératoire et en réanimation, ouvre 1792268438701] → Enregistré dans Anki ✓
+22/11 11:12:28  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794156188589 ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨1.1⁩mo, ⁨1.5⁩mo]
+22/11 11:12:28  enchaînement : question suivante « Quel bilan d'hémostase faut-il probablement d… » [note 1794156188589, ord 0, paquet 2017 – Examens biologiques et radiographie thoracique en réanimation, ouvre 1792268438701]
+22/11 11:13:27  réponse affichée après 58 s « Quel bilan d'hémostase faut-il probablement d… » [note 1794156188589, ord 0, paquet 2017 – Examens biologiques et radiographie thoracique en réanimation, ouvre 1792268438701]
+22/11 11:13:27  réponse tapée jugée SENS « Quel bilan d'hémostase faut-il probablement d… » [note 1794156188589, ord 0, paquet 2017 – Examens biologiques et radiographie thoracique en réanimation, ouvre 1792268438701]
+22/11 11:13:29  après la note, tête de file du paquet ouvert : note 1794161643366, ord 0, délais [⁨10⁩m, ⁨2.5⁩mo, ⁨3.6⁩mo, ⁨5.9⁩mo]
+22/11 11:13:29  noté Facile en 60 s « Quel bilan d'hémostase faut-il probablement d… » [note 1794156188589, ord 0, paquet 2017 – Examens biologiques et radiographie thoracique en réanimation, ouvre 1792268438701] → Enregistré dans Anki ✓
+22/11 11:13:29  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794161643366 ord 0, délais [⁨10⁩m, ⁨2.5⁩mo, ⁨3.6⁩mo, ⁨5.9⁩mo]
+22/11 11:13:29  enchaînement : question suivante « Un patient à faible risque de rétention n'a p… » [note 1794161643366, ord 0, paquet 2015 – Chirurgie ambulatoire en proctologie, ouvre 1792268438701]
+22/11 11:13:36  réponse affichée après 6 s « Un patient à faible risque de rétention n'a p… » [note 1794161643366, ord 0, paquet 2015 – Chirurgie ambulatoire en proctologie, ouvre 1792268438701]
+22/11 11:13:36  réponse tapée jugée FAUX « Un patient à faible risque de rétention n'a p… » [note 1794161643366, ord 0, paquet 2015 – Chirurgie ambulatoire en proctologie, ouvre 1792268438701]
+22/11 11:13:37  après la note, tête de file du paquet ouvert : note 1794469637541, ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨24⁩d, ⁨28⁩d]
+22/11 11:13:37  noté Facile en 7 s « Un patient à faible risque de rétention n'a p… » [note 1794161643366, ord 0, paquet 2015 – Chirurgie ambulatoire en proctologie, ouvre 1792268438701] → Enregistré dans Anki ✓
+22/11 11:13:37  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794469637541 ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨24⁩d, ⁨28⁩d]
+22/11 11:13:37  enchaînement : question suivante « Un traumatisé thoracique en détresse respirat… » [note 1794469637541, ord 0, paquet 2015 – Traumatisme thoracique, ouvre 1792268438701]
+22/11 11:13:51  réponse affichée après 13 s « Un traumatisé thoracique en détresse respirat… » [note 1794469637541, ord 0, paquet 2015 – Traumatisme thoracique, ouvre 1792268438701]
+22/11 11:14:00  écran éteint avec une carte en attente, retour programmé
+22/11 11:14:37  fermeture sans note (Fermer, appui à côté ou retour) « Un traumatisé thoracique en détresse respirat… » [note 1794469637541, ord 0, paquet 2015 – Traumatisme thoracique, ouvre 1792268438701]
+22/11 11:14:37  pop-up retiré
+22/11 11:14:37  service de premier plan arrêté
+22/11 11:26:15  tirage : paquet 1792268438701 (choix tous), tête de file note 1794489954995 ord 0, délais [⁨10⁩m, ⁨1.3⁩mo, ⁨1.6⁩mo, ⁨2.5⁩mo]
+22/11 11:26:15  pop-up affiché « Réanimation préhospitalière en cours : sur pl… » [note 1794489954995, ord 0, paquet 2025 – Arrêt cardiaque, circonstances particulières, ouvre 1792268438701]
+22/11 11:26:15  nouvelle carte, pop-up (2025 – Arrêt cardiaque, circonstances particulières) « Réanimation préhospitalière en cours : sur pl… » [note 1794489954995, ord 0, paquet 2025 – Arrêt cardiaque, circonstances particulières, ouvre 1792268438701]
+22/11 11:26:16  la carte précédente attend encore à l'écran, pas de nouvelle carte.
+22/11 11:26:23  réponse affichée après 7 s « Réanimation préhospitalière en cours : sur pl… » [note 1794489954995, ord 0, paquet 2025 – Arrêt cardiaque, circonstances particulières, ouvre 1792268438701]
+22/11 11:26:23  réponse tapée jugée FAUX « Réanimation préhospitalière en cours : sur pl… » [note 1794489954995, ord 0, paquet 2025 – Arrêt cardiaque, circonstances particulières, ouvre 1792268438701]
+22/11 11:26:26  après la note, tête de file du paquet ouvert : note 1793823720584, ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨1.5⁩mo, ⁨2.1⁩mo]
+22/11 11:26:26  noté Facile en 10 s « Réanimation préhospitalière en cours : sur pl… » [note 1794489954995, ord 0, paquet 2025 – Arrêt cardiaque, circonstances particulières, ouvre 1792268438701] → Enregistré dans Anki ✓
+22/11 11:26:26  tirage : paquet 1792268438701 (choix fixe), tête de file note 1793823720584 ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨1.5⁩mo, ⁨2.1⁩mo]
+22/11 11:26:26  enchaînement : question suivante « Quelle mesure locale non médicamenteuse assoc… » [note 1793823720584, ord 0, paquet 2023 – Épanchement pleural en soins critiques, ouvre 1792268438701]
+22/11 11:26:34  réponse affichée après 8 s « Quelle mesure locale non médicamenteuse assoc… » [note 1793823720584, ord 0, paquet 2023 – Épanchement pleural en soins critiques, ouvre 1792268438701]
+22/11 11:26:34  réponse tapée jugée FAUX « Quelle mesure locale non médicamenteuse assoc… » [note 1793823720584, ord 0, paquet 2023 – Épanchement pleural en soins critiques, ouvre 1792268438701]
+22/11 11:26:37  après la note, tête de file du paquet ouvert : note 1794158587613, ord 0, délais [⁨10⁩m, ⁨1.6⁩mo, ⁨2.2⁩mo, ⁨3.5⁩mo]
+22/11 11:26:37  noté Facile en 10 s « Quelle mesure locale non médicamenteuse assoc… » [note 1793823720584, ord 0, paquet 2023 – Épanchement pleural en soins critiques, ouvre 1792268438701] → Enregistré dans Anki ✓
+22/11 11:26:37  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794158587613 ord 0, délais [⁨10⁩m, ⁨1.6⁩mo, ⁨2.2⁩mo, ⁨3.5⁩mo]
+22/11 11:26:37  enchaînement : question suivante « Que faut-il faire en amont d'une intubation e… » [note 1794158587613, ord 0, paquet 2016 – Intubation et extubation en réanimation, ouvre 1792268438701]
+22/11 11:26:48  réponse affichée après 11 s « Que faut-il faire en amont d'une intubation e… » [note 1794158587613, ord 0, paquet 2016 – Intubation et extubation en réanimation, ouvre 1792268438701]
+22/11 11:26:48  réponse tapée jugée FAUX « Que faut-il faire en amont d'une intubation e… » [note 1794158587613, ord 0, paquet 2016 – Intubation et extubation en réanimation, ouvre 1792268438701]
+22/11 11:26:50  après la note, tête de file du paquet ouvert : note 1794469637541, ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨24⁩d, ⁨28⁩d]
+22/11 11:26:50  noté Facile en 13 s « Que faut-il faire en amont d'une intubation e… » [note 1794158587613, ord 0, paquet 2016 – Intubation et extubation en réanimation, ouvre 1792268438701] → Enregistré dans Anki ✓
+22/11 11:26:50  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794469637541 ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨24⁩d, ⁨28⁩d]
+22/11 11:26:50  enchaînement : question suivante « Un traumatisé thoracique en détresse respirat… » [note 1794469637541, ord 0, paquet 2015 – Traumatisme thoracique, ouvre 1792268438701]
+22/11 11:29:40  réponse affichée après 169 s « Un traumatisé thoracique en détresse respirat… » [note 1794469637541, ord 0, paquet 2015 – Traumatisme thoracique, ouvre 1792268438701]
+22/11 11:29:40  réponse tapée jugée EXACT « Un traumatisé thoracique en détresse respirat… » [note 1794469637541, ord 0, paquet 2015 – Traumatisme thoracique, ouvre 1792268438701]
+22/11 11:29:42  après la note, tête de file du paquet ouvert : note 1793730367757, ord 0, délais [⁨10⁩m, ⁨24⁩d, ⁨27⁩d, ⁨1.2⁩mo]
+22/11 11:29:42  noté Facile en 171 s « Un traumatisé thoracique en détresse respirat… » [note 1794469637541, ord 0, paquet 2015 – Traumatisme thoracique, ouvre 1792268438701] → Enregistré dans Anki ✓
+22/11 11:29:42  tirage : paquet 1792268438701 (choix fixe), tête de file note 1793730367757 ord 0, délais [⁨10⁩m, ⁨24⁩d, ⁨27⁩d, ⁨1.2⁩mo]
+22/11 11:29:42  enchaînement : question suivante « Quelles vaccinations réaliser ou mettre à jou… » [note 1793730367757, ord 0, paquet 2025 – TCE, prise en charge neurochirurgicale initiale, ouvre 1792268438701]
+22/11 11:29:58  réponse affichée après 15 s « Quelles vaccinations réaliser ou mettre à jou… » [note 1793730367757, ord 0, paquet 2025 – TCE, prise en charge neurochirurgicale initiale, ouvre 1792268438701]
+22/11 11:29:58  réponse tapée jugée SENS « Quelles vaccinations réaliser ou mettre à jou… » [note 1793730367757, ord 0, paquet 2025 – TCE, prise en charge neurochirurgicale initiale, ouvre 1792268438701]
+22/11 11:30:06  après la note, tête de file du paquet ouvert : note 1794469039678, ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨1.2⁩mo, ⁨1.6⁩mo]
+22/11 11:30:06  noté Facile en 23 s « Quelles vaccinations réaliser ou mettre à jou… » [note 1793730367757, ord 0, paquet 2025 – TCE, prise en charge neurochirurgicale initiale, ouvre 1792268438701] → Enregistré dans Anki ✓
+22/11 11:30:06  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794469039678 ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨1.2⁩mo, ⁨1.6⁩mo]
+22/11 11:30:06  enchaînement : question suivante « Infection de fiche de fixateur externe avec é… » [note 1794469039678, ord 0, paquet Infections ostéo-articulaires, ouvre 1792268438701]
+22/11 11:30:12  réponse affichée après 5 s « Infection de fiche de fixateur externe avec é… » [note 1794469039678, ord 0, paquet Infections ostéo-articulaires, ouvre 1792268438701]
+22/11 11:30:12  réponse tapée jugée FAUX « Infection de fiche de fixateur externe avec é… » [note 1794469039678, ord 0, paquet Infections ostéo-articulaires, ouvre 1792268438701]
+22/11 11:30:14  après la note, tête de file du paquet ouvert : note 1794158587841, ord 0, délais [⁨10⁩m, ⁨2.2⁩mo, ⁨3.2⁩mo, ⁨5.4⁩mo]
+22/11 11:30:14  noté Facile en 6 s « Infection de fiche de fixateur externe avec é… » [note 1794469039678, ord 0, paquet Infections ostéo-articulaires, ouvre 1792268438701] → Enregistré dans Anki ✓
+22/11 11:30:14  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794158587841 ord 0, délais [⁨10⁩m, ⁨2.2⁩mo, ⁨3.2⁩mo, ⁨5.4⁩mo]
+22/11 11:30:14  enchaînement : question suivante « Chez un traumatisé crânien grave intubé et ve… » [note 1794158587841, ord 0, paquet 2016 – Traumatisé crânien grave (phase précoce), ouvre 1792268438701]
+22/11 11:30:26  réponse affichée après 11 s « Chez un traumatisé crânien grave intubé et ve… » [note 1794158587841, ord 0, paquet 2016 – Traumatisé crânien grave (phase précoce), ouvre 1792268438701]
+22/11 11:30:26  réponse tapée jugée PARTIEL « Chez un traumatisé crânien grave intubé et ve… » [note 1794158587841, ord 0, paquet 2016 – Traumatisé crânien grave (phase précoce), ouvre 1792268438701]
+22/11 11:30:37  après la note, tête de file du paquet ouvert : note 1794469039744, ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨23⁩d, ⁨26⁩d]
+22/11 11:30:37  noté Facile en 23 s « Chez un traumatisé crânien grave intubé et ve… » [note 1794158587841, ord 0, paquet 2016 – Traumatisé crânien grave (phase précoce), ouvre 1792268438701] → Enregistré dans Anki ✓
+22/11 11:30:37  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794469039744 ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨23⁩d, ⁨26⁩d]
+22/11 11:30:37  enchaînement : question suivante « En salle d'orthopédie, que recommande-t-on co… » [note 1794469039744, ord 0, paquet Infections ostéo-articulaires, ouvre 1792268438701]
+22/11 11:30:44  réponse affichée après 6 s « En salle d'orthopédie, que recommande-t-on co… » [note 1794469039744, ord 0, paquet Infections ostéo-articulaires, ouvre 1792268438701]
+22/11 11:31:42  après la note, tête de file du paquet ouvert : note 1794161643442, ord 0, délais [⁨10⁩m, ⁨2.2⁩mo, ⁨3.2⁩mo, ⁨5.4⁩mo]
+22/11 11:31:42  noté Facile en 64 s « En salle d'orthopédie, que recommande-t-on co… » [note 1794469039744, ord 0, paquet Infections ostéo-articulaires, ouvre 1792268438701] → Enregistré dans Anki ✓
+22/11 11:31:42  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794161643442 ord 0, délais [⁨10⁩m, ⁨2.2⁩mo, ⁨3.2⁩mo, ⁨5.4⁩mo]
+22/11 11:31:42  enchaînement : question suivante « Un patient de réanimation en IRA risque la su… » [note 1794161643442, ord 0, paquet 2015 – Insuffisance rénale aiguë en périopératoire et en réanimation, ouvre 1792268438701]
+22/11 11:32:11  réponse affichée après 28 s « Un patient de réanimation en IRA risque la su… » [note 1794161643442, ord 0, paquet 2015 – Insuffisance rénale aiguë en périopératoire et en réanimation, ouvre 1792268438701]
+22/11 11:32:11  réponse tapée jugée EXACT « Un patient de réanimation en IRA risque la su… » [note 1794161643442, ord 0, paquet 2015 – Insuffisance rénale aiguë en périopératoire et en réanimation, ouvre 1792268438701]
+22/11 11:32:23  après la note, tête de file du paquet ouvert : note 1794469637349, ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨1.3⁩mo, ⁨1.8⁩mo]
+22/11 11:32:23  noté Facile en 40 s « Un patient de réanimation en IRA risque la su… » [note 1794161643442, ord 0, paquet 2015 – Insuffisance rénale aiguë en périopératoire et en réanimation, ouvre 1792268438701] → Enregistré dans Anki ✓
+22/11 11:32:23  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794469637349 ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨1.3⁩mo, ⁨1.8⁩mo]
+22/11 11:32:23  enchaînement : question suivante « Dans quelles chirurgies la récupération de sa… » [note 1794469637349, ord 0, paquet 2014 – Transfusion de globules rouges, ouvre 1792268438701]
+22/11 11:32:41  réponse affichée après 17 s « Dans quelles chirurgies la récupération de sa… » [note 1794469637349, ord 0, paquet 2014 – Transfusion de globules rouges, ouvre 1792268438701]
+22/11 11:32:41  réponse tapée jugée PARTIEL « Dans quelles chirurgies la récupération de sa… » [note 1794469637349, ord 0, paquet 2014 – Transfusion de globules rouges, ouvre 1792268438701]
+22/11 11:33:15  après la note, tête de file du paquet ouvert : note 1794158587573, ord 0, délais [⁨10⁩m, ⁨2⁩mo, ⁨2.9⁩mo, ⁨5⁩mo]
+22/11 11:33:15  noté Facile en 51 s « Dans quelles chirurgies la récupération de sa… » [note 1794469637349, ord 0, paquet 2014 – Transfusion de globules rouges, ouvre 1792268438701] → Enregistré dans Anki ✓
+22/11 11:33:15  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794158587573 ord 0, délais [⁨10⁩m, ⁨2⁩mo, ⁨2.9⁩mo, ⁨5⁩mo]
+22/11 11:33:15  enchaînement : question suivante « Quelle échelle utiliser en période préopérato… » [note 1794158587573, ord 0, paquet 2016 – Douleur postopératoire, ouvre 1792268438701]
+22/11 11:33:31  réponse affichée après 16 s « Quelle échelle utiliser en période préopérato… » [note 1794158587573, ord 0, paquet 2016 – Douleur postopératoire, ouvre 1792268438701]
+22/11 11:33:31  réponse tapée jugée FAUX « Quelle échelle utiliser en période préopérato… » [note 1794158587573, ord 0, paquet 2016 – Douleur postopératoire, ouvre 1792268438701]
+22/11 11:34:38  fermeture sans note (Fermer, appui à côté ou retour) « Quelle échelle utiliser en période préopérato… » [note 1794158587573, ord 0, paquet 2016 – Douleur postopératoire, ouvre 1792268438701]
+22/11 11:34:38  pop-up retiré
+22/11 11:34:38  service de premier plan arrêté
+22/11 11:35:32  tirage : paquet 1792268438701 (choix tous), tête de file note 1794158587573 ord 0, délais [⁨10⁩m, ⁨2⁩mo, ⁨2.9⁩mo, ⁨5⁩mo]
+22/11 11:35:32  pop-up affiché « Quelle échelle utiliser en période préopérato… » [note 1794158587573, ord 0, paquet 2016 – Douleur postopératoire, ouvre 1792268438701]
+22/11 11:35:32  nouvelle carte, pop-up (2016 – Douleur postopératoire) « Quelle échelle utiliser en période préopérato… » [note 1794158587573, ord 0, paquet 2016 – Douleur postopératoire, ouvre 1792268438701]
+22/11 11:35:34  carte réduite en bouton, réouverture prévue dans 5 min
+22/11 11:35:44  mise à jour : v1.0.33 téléchargée, installation demandée
+22/11 11:35:53  mise à jour installée
+22/11 11:35:53  règles de lecture appliquées (version 1, 0 groupes)
+22/11 11:35:53  règles de lecture : Règles mises à jour.
+22/11 11:35:55  test recherche AnkiDroid : total=23300, absurde=-1, nouvelles=22746, rated:1=23, mûres=124, suspendues=18328, marked=-1 → recherche NON prise en charge (repli : chiffres masqués)
+22/11 11:36:45  pop-up affiché « Quelle échelle utiliser en période préopérato… » [note 1794158587573, ord 0, paquet 2016 – Douleur postopératoire, ouvre 1792268438701]
+22/11 11:36:45  carte en attente remontrée, pop-up (2016 – Douleur postopératoire) « Quelle échelle utiliser en période préopérato… » [note 1794158587573, ord 0, paquet 2016 – Douleur postopératoire, ouvre 1792268438701]
+22/11 11:37:01  réponse affichée après 15 s « Quelle échelle utiliser en période préopérato… » [note 1794158587573, ord 0, paquet 2016 – Douleur postopératoire, ouvre 1792268438701]
+22/11 11:37:01  réponse tapée jugée PARTIEL « Quelle échelle utiliser en période préopérato… » [note 1794158587573, ord 0, paquet 2016 – Douleur postopératoire, ouvre 1792268438701]
+22/11 11:37:06  après la note, tête de file du paquet ouvert : note 1793730367119, ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨21⁩d, ⁨23⁩d]
+22/11 11:37:06  noté Difficile en 20 s « Quelle échelle utiliser en période préopérato… » [note 1794158587573, ord 0, paquet 2016 – Douleur postopératoire, ouvre 1792268438701] → Enregistré dans Anki ✓
+22/11 11:37:06  tirage : paquet 1792268438701 (choix fixe), tête de file note 1793730367119 ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨21⁩d, ⁨23⁩d]
+22/11 11:37:06  enchaînement : question suivante « Quel référentiel international faut-il suivre… » [note 1793730367119, ord 0, paquet 2025 – Sepsis, parcours de soins (HAS), ouvre 1792268438701]
+22/11 11:37:16  réponse affichée après 9 s « Quel référentiel international faut-il suivre… » [note 1793730367119, ord 0, paquet 2025 – Sepsis, parcours de soins (HAS), ouvre 1792268438701]
+22/11 11:37:35  après la note, tête de file du paquet ouvert : note 1793820157670, ord 0, délais [⁨10⁩m, ⁨1.8⁩mo, ⁨2.4⁩mo, ⁨3.5⁩mo]
+22/11 11:37:35  noté Correct en 28 s « Quel référentiel international faut-il suivre… » [note 1793730367119, ord 0, paquet 2025 – Sepsis, parcours de soins (HAS), ouvre 1792268438701] → Enregistré dans Anki ✓
+22/11 11:37:35  tirage : paquet 1792268438701 (choix fixe), tête de file note 1793820157670 ord 0, délais [⁨10⁩m, ⁨1.8⁩mo, ⁨2.4⁩mo, ⁨3.5⁩mo]
+22/11 11:37:35  enchaînement : question suivante « Une thromboprophylaxie est indiquée mais les … » [note 1793820157670, ord 0, paquet 2024 – MTEV périopératoire (prévention), ouvre 1792268438701]
+22/11 11:37:44  réponse affichée après 8 s « Une thromboprophylaxie est indiquée mais les … » [note 1793820157670, ord 0, paquet 2024 – MTEV périopératoire (prévention), ouvre 1792268438701]
+22/11 11:37:44  réponse tapée jugée FAUX « Une thromboprophylaxie est indiquée mais les … » [note 1793820157670, ord 0, paquet 2024 – MTEV périopératoire (prévention), ouvre 1792268438701]
+22/11 11:37:49  après la note, tête de file du paquet ouvert : note 1793787844938, ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨1.4⁩mo, ⁨2⁩mo]
+22/11 11:37:49  noté Difficile en 13 s « Une thromboprophylaxie est indiquée mais les … » [note 1793820157670, ord 0, paquet 2024 – MTEV périopératoire (prévention), ouvre 1792268438701] → Enregistré dans Anki ✓
+22/11 11:37:49  tirage : paquet 1792268438701 (choix fixe), tête de file note 1793787844938 ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨1.4⁩mo, ⁨2⁩mo]
+22/11 11:37:49  enchaînement : question suivante « Lors d'une thrombectomie sans thrombolyse pré… » [note 1793787844938, ord 0, paquet 2022 – Anesthésie pour thrombectomie (AVC), ouvre 1792268438701]
+22/11 11:37:55  carte précédente revue « Une thromboprophylaxie est indiquée mais les … » [note 1793820157670, ord 0, paquet 2024 – MTEV périopératoire (prévention), ouvre 1792268438701] : recommandation 171 car., argumentaire 290 car.
+22/11 11:38:11  réponse affichée après 22 s « Lors d'une thrombectomie sans thrombolyse pré… » [note 1793787844938, ord 0, paquet 2022 – Anesthésie pour thrombectomie (AVC), ouvre 1792268438701]
+22/11 11:38:25  étoile note 1793787844938 ajoutée : lignes=1, vérifié=true
+22/11 11:38:28  après la note, tête de file du paquet ouvert : note 1793730367793, ord 0, délais [⁨10⁩m, ⁨1.9⁩mo, ⁨2.5⁩mo, ⁨4⁩mo]
+22/11 11:38:28  noté Difficile en 39 s « Lors d'une thrombectomie sans thrombolyse pré… » [note 1793787844938, ord 0, paquet 2022 – Anesthésie pour thrombectomie (AVC), ouvre 1792268438701] → Enregistré dans Anki ✓
+22/11 11:38:28  tirage : paquet 1792268438701 (choix fixe), tête de file note 1793730367793 ord 0, délais [⁨10⁩m, ⁨1.9⁩mo, ⁨2.5⁩mo, ⁨4⁩mo]
+22/11 11:38:28  enchaînement : question suivante « Un nourrisson avec TC non accidentel a un hém… » [note 1793730367793, ord 0, paquet 2025 – TCE, prise en charge neurochirurgicale initiale, ouvre 1792268438701]
+22/11 11:38:47  réponse affichée après 18 s « Un nourrisson avec TC non accidentel a un hém… » [note 1793730367793, ord 0, paquet 2025 – TCE, prise en charge neurochirurgicale initiale, ouvre 1792268438701]
+22/11 11:38:47  réponse tapée jugée SENS « Un nourrisson avec TC non accidentel a un hém… » [note 1793730367793, ord 0, paquet 2025 – TCE, prise en charge neurochirurgicale initiale, ouvre 1792268438701]
+22/11 11:38:53  après la note, tête de file du paquet ouvert : note 1794469039498, ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨23⁩d, ⁨25⁩d]
+22/11 11:38:53  noté Correct en 24 s « Un nourrisson avec TC non accidentel a un hém… » [note 1793730367793, ord 0, paquet 2025 – TCE, prise en charge neurochirurgicale initiale, ouvre 1792268438701] → Enregistré dans Anki ✓
+22/11 11:38:53  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794469039498 ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨23⁩d, ⁨25⁩d]
+22/11 11:38:53  enchaînement : question suivante « Quel traitement d'une endocardite sur prothès… » [note 1794469039498, ord 0, paquet Endocardite et matériel endovasculaire, ouvre 1792268438701]
+22/11 11:39:04  réponse affichée après 11 s « Quel traitement d'une endocardite sur prothès… » [note 1794469039498, ord 0, paquet Endocardite et matériel endovasculaire, ouvre 1792268438701]
+22/11 11:39:04  réponse tapée jugée FAUX « Quel traitement d'une endocardite sur prothès… » [note 1794469039498, ord 0, paquet Endocardite et matériel endovasculaire, ouvre 1792268438701]
+22/11 11:39:42  après la note, tête de file du paquet ouvert : note 1794158587765, ord 0, délais [⁨10⁩m, ⁨1.8⁩mo, ⁨2.4⁩mo, ⁨3.8⁩mo]
+22/11 11:39:42  noté Difficile en 48 s « Quel traitement d'une endocardite sur prothès… » [note 1794469039498, ord 0, paquet Endocardite et matériel endovasculaire, ouvre 1792268438701] → Enregistré dans Anki ✓
+22/11 11:39:42  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794158587765 ord 0, délais [⁨10⁩m, ⁨1.8⁩mo, ⁨2.4⁩mo, ⁨3.8⁩mo]
+22/11 11:39:42  enchaînement : question suivante « Un patient est opéré sous anesthésie générale… » [note 1794158587765, ord 0, paquet 2016 – Protection oculaire en anesthésie et réanimation, ouvre 1792268438701]
+22/11 11:39:59  appui sur la notification « Question en attente »
+22/11 11:40:02  carte réduite en bouton, réouverture prévue dans 5 min
+22/11 11:41:58  carte rouverte depuis le bouton
+22/11 11:42:04  carte réduite en bouton, réouverture prévue dans 5 min
+22/11 11:44:43  carte rouverte depuis le bouton
+22/11 11:44:56  carte réduite en bouton, réouverture prévue dans 5 min
+22/11 11:45:35  carte rouverte depuis le bouton
+22/11 11:45:41  carte réduite en bouton, réouverture prévue dans 5 min
+22/11 11:48:32  carte rouverte depuis le bouton
+22/11 11:48:44  réponse affichée après 541 s « Un patient est opéré sous anesthésie générale… » [note 1794158587765, ord 0, paquet 2016 – Protection oculaire en anesthésie et réanimation, ouvre 1792268438701]
+22/11 11:48:50  après la note, tête de file du paquet ouvert : note 1794158587633, ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨1.5⁩mo, ⁨2⁩mo]
+22/11 11:48:50  noté Correct en 547 s « Un patient est opéré sous anesthésie générale… » [note 1794158587765, ord 0, paquet 2016 – Protection oculaire en anesthésie et réanimation, ouvre 1792268438701] → Enregistré dans Anki ✓
+22/11 11:48:50  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794158587633 ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨1.5⁩mo, ⁨2⁩mo]
+22/11 11:48:50  enchaînement : question suivante « En cas de contre-indication à la succinylchol… » [note 1794158587633, ord 0, paquet 2016 – Intubation et extubation en réanimation, ouvre 1792268438701]
+22/11 11:49:04  réponse affichée après 14 s « En cas de contre-indication à la succinylchol… » [note 1794158587633, ord 0, paquet 2016 – Intubation et extubation en réanimation, ouvre 1792268438701]
+22/11 11:49:04  réponse tapée jugée PARTIEL « En cas de contre-indication à la succinylchol… » [note 1794158587633, ord 0, paquet 2016 – Intubation et extubation en réanimation, ouvre 1792268438701]
+22/11 11:49:08  verdict corrigé par toi : PARTIEL → JUSTE « En cas de contre-indication à la succinylchol… » [note 1794158587633, ord 0, paquet 2016 – Intubation et extubation en réanimation, ouvre 1792268438701]
+22/11 11:49:27  après la note, tête de file du paquet ouvert : note 1793730367253, ord 0, délais [⁨10⁩m, ⁨1.6⁩mo, ⁨2.1⁩mo, ⁨3.2⁩mo]
+22/11 11:49:27  noté Facile en 36 s « En cas de contre-indication à la succinylchol… » [note 1794158587633, ord 0, paquet 2016 – Intubation et extubation en réanimation, ouvre 1792268438701] → Enregistré dans Anki ✓
+22/11 11:49:27  tirage : paquet 1792268438701 (choix fixe), tête de file note 1793730367253 ord 0, délais [⁨10⁩m, ⁨1.6⁩mo, ⁨2.1⁩mo, ⁨3.2⁩mo]
+22/11 11:49:27  enchaînement : question suivante « Un patient en situation précaire ou à risque,… » [note 1793730367253, ord 0, paquet 2025 – Sepsis, parcours de soins (HAS), ouvre 1792268438701]
+22/11 11:49:33  réponse affichée après 6 s « Un patient en situation précaire ou à risque,… » [note 1793730367253, ord 0, paquet 2025 – Sepsis, parcours de soins (HAS), ouvre 1792268438701]
+22/11 11:49:36  après la note, tête de file du paquet ouvert : note 1794469039656, ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨23⁩d, ⁨25⁩d]
+22/11 11:49:36  noté Facile en 8 s « Un patient en situation précaire ou à risque,… » [note 1793730367253, ord 0, paquet 2025 – Sepsis, parcours de soins (HAS), ouvre 1792268438701] → Enregistré dans Anki ✓
+22/11 11:49:36  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794469039656 ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨23⁩d, ⁨25⁩d]
+22/11 11:49:36  enchaînement : question suivante « Une flore cutanée (staphylocoque à coagulase … » [note 1794469039656, ord 0, paquet Infections ostéo-articulaires, ouvre 1792268438701]
+22/11 11:50:10  la carte précédente attend encore à l'écran, pas de nouvelle carte.
+22/11 11:52:28  réponse affichée après 172 s « Une flore cutanée (staphylocoque à coagulase … » [note 1794469039656, ord 0, paquet Infections ostéo-articulaires, ouvre 1792268438701]
+22/11 11:52:59  étoile note 1794469039656 ajoutée : lignes=1, vérifié=true
+22/11 11:53:27  après la note, tête de file du paquet ouvert : note 1794158587491, ord 0, délais [⁨10⁩m, ⁨14⁩d, ⁨22⁩d, ⁨1.2⁩mo]
+22/11 11:53:27  noté Difficile en 230 s « Une flore cutanée (staphylocoque à coagulase … » [note 1794469039656, ord 0, paquet Infections ostéo-articulaires, ouvre 1792268438701] → Enregistré dans Anki ✓
+22/11 11:53:27  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794158587491 ord 0, délais [⁨10⁩m, ⁨14⁩d, ⁨22⁩d, ⁨1.2⁩mo]
+22/11 11:53:27  enchaînement : question suivante « Lors d'une intoxication systémique aux AL tra… » [note 1794158587491, ord 0, paquet 2016 – ALR périnerveuse, ouvre 1792268438701]
+22/11 11:53:44  réponse affichée après 17 s « Lors d'une intoxication systémique aux AL tra… » [note 1794158587491, ord 0, paquet 2016 – ALR périnerveuse, ouvre 1792268438701]
+22/11 11:53:44  réponse tapée jugée SENS « Lors d'une intoxication systémique aux AL tra… » [note 1794158587491, ord 0, paquet 2016 – ALR périnerveuse, ouvre 1792268438701]
+22/11 11:53:53  après la note, tête de file du paquet ouvert : note 1794177603657, ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨1.3⁩mo, ⁨1.6⁩mo]
+22/11 11:53:53  noté Correct en 25 s « Lors d'une intoxication systémique aux AL tra… » [note 1794158587491, ord 0, paquet 2016 – ALR périnerveuse, ouvre 1792268438701] → Enregistré dans Anki ✓
+22/11 11:53:53  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794177603657 ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨1.3⁩mo, ⁨1.6⁩mo]
+22/11 11:53:53  enchaînement : question suivante « Quels scores spécifiques utiliser pour évalue… » [note 1794177603657, ord 0, paquet 2025 – Encéphalopathie aiguë sévère en réanimation, ouvre 1792268438701]
+22/11 11:53:59  étoile note 1794177603657 ajoutée : lignes=1, vérifié=true
+22/11 11:54:07  réponse affichée après 14 s « Quels scores spécifiques utiliser pour évalue… » [note 1794177603657, ord 0, paquet 2025 – Encéphalopathie aiguë sévère en réanimation, ouvre 1792268438701]
+22/11 11:54:07  réponse tapée jugée FAUX « Quels scores spécifiques utiliser pour évalue… » [note 1794177603657, ord 0, paquet 2025 – Encéphalopathie aiguë sévère en réanimation, ouvre 1792268438701]
+22/11 11:55:46  après la note, tête de file du paquet ouvert : note 1794076742709, ord 0, délais [⁨10⁩m, ⁨1.6⁩mo, ⁨2.1⁩mo, ⁨3.1⁩mo]
+22/11 11:55:46  noté Difficile en 113 s « Quels scores spécifiques utiliser pour évalue… » [note 1794177603657, ord 0, paquet 2025 – Encéphalopathie aiguë sévère en réanimation, ouvre 1792268438701] → Enregistré dans Anki ✓
+22/11 11:55:47  tirage : paquet 1792268438701 (choix fixe), tête de file note 1794076742709 ord 0, délais [⁨10⁩m, ⁨1.6⁩mo, ⁨2.1⁩mo, ⁨3.1⁩mo]
+22/11 11:55:47  enchaînement : question suivante « Un brûlé grave n'est pas dans une période pér… » [note 1794076742709, ord 0, paquet 2019 – Brûlé grave à la phase aiguë, ouvre 1792268438701]
+22/11 11:55:54  carte réduite en bouton, réouverture prévue dans 5 min
+22/11 11:57:53  écran éteint avec une carte en attente
+22/11 11:59:42  écran éteint avec une carte en attente
+22/11 12:00:54  délai de réouverture écoulé : endormi=true, réduite=true
+22/11 12:00:54  téléphone verrouillé : carte gardée à l'écran (bouton ?)
+22/11 12:01:18  mise à jour : v1.0.34 téléchargée, installation demandée
+22/11 12:01:27  mise à jour installée
+22/11 12:01:28  règles de lecture appliquées (version 1, 0 groupes)
+22/11 12:01:28  index IA : Lecture des notes dans AnkiDroid…
+22/11 12:01:31  test recherche AnkiDroid : total=23300, absurde=-1, nouvelles=22743, rated:1=35, mûres=132, suspendues=18328, marked=3 → recherche NON prise en charge (repli : chiffres masqués)
+22/11 12:01:32  index IA : mots lus : 2500 / 23300 notes
+22/11 12:01:32  index IA : mots lus : 5000 / 23300 notes
+22/11 12:01:32  index IA : mots lus : 7500 / 23300 notes
+22/11 12:01:33  index IA : mots lus : 10000 / 23300 notes
+22/11 12:01:33  index IA : mots lus : 12500 / 23300 notes
+22/11 12:01:33  index IA : mots lus : 15000 / 23300 notes
+22/11 12:01:33  index IA : mots lus : 17500 / 23300 notes
+22/11 12:01:34  index IA : mots lus : 20000 / 23300 notes
+22/11 12:01:34  index IA : mots lus : 22500 / 23300 notes
+22/11 12:01:37  index IA : voisins calculés : 2500 / 23300 notes
+22/11 12:01:39  index IA : voisins calculés : 5000 / 23300 notes
+22/11 12:01:41  index IA : voisins calculés : 7500 / 23300 notes
+22/11 12:01:43  index IA : voisins calculés : 10000 / 23300 notes
+22/11 12:01:45  index IA : voisins calculés : 12500 / 23300 notes
+22/11 12:01:47  index IA : voisins calculés : 15000 / 23300 notes
+22/11 12:01:48  index IA : voisins calculés : 17500 / 23300 notes
+22/11 12:01:51  index IA : voisins calculés : 20000 / 23300 notes
+22/11 12:01:55  index IA : voisins calculés : 22500 / 23300 notes
+22/11 12:01:56  index IA : Index prêt : 23300 notes, 22875 avec des voisins, calculé en 28 s.
+22/11 12:07:37  pop-up affiché « Un brûlé grave n'est pas dans une période pér… » [note 1794076742709, ord 0, paquet 2019 – Brûlé grave à la phase aiguë, ouvre 1792268438701]
+22/11 12:07:37  carte en attente remontrée, pop-up (2019 – Brûlé grave à la phase aiguë) « Un brûlé grave n'est pas dans une période pér… » [note 1794076742709, ord 0, paquet 2019 – Brûlé grave à la phase aiguë, ouvre 1792268438701]
+22/11 12:07:54  réponse affichée après 16 s « Un brûlé grave n'est pas dans une période pér… » [note 1794076742709, ord 0, paquet 2019 – Brûlé grave à la phase aiguë, ouvre 1792268438701]
+22/11 12:07:54  réponse tapée jugée EXACT « Un brûlé grave n'est pas dans une période pér… » [note 1794076742709, ord 0, paquet 2019 – Brûlé grave à la phase aiguë, ouvre 1792268438701]
+22/11 12:08:03  après la note, tête de file du paquet ouvert : note 1793787844938, ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨1⁩mo, ⁨1.6⁩mo]
+22/11 12:08:03  noté Facile en 25 s « Un brûlé grave n'est pas dans une période pér… » [note 1794076742709, ord 0, paquet 2019 – Brûlé grave à la phase aiguë, ouvre 1792268438701] → Enregistré dans Anki ✓
+22/11 12:08:03  tirage : paquet 1792268438701 (choix fixe), tête de file note 1793787844938 ord 0, délais [⁨15⁩m, ⁨23⁩m, ⁨1⁩mo, ⁨1.6⁩mo]
+22/11 12:08:03  enchaînement : question suivante « Lors d'une thrombectomie sans thrombolyse pré… » [note 1793787844938, ord 0, paquet 2022 – Anesthésie pour thrombectomie (AVC), ouvre 1792268438701]
+22/11 12:08:04  carte réduite en bouton, réouverture prévue dans 5 min
+22/11 12:09:29  carte rouverte depuis le bouton
+22/11 12:09:39  carte réduite en bouton, réouverture prévue dans 5 min
