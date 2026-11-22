@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "abreviations": [],
+  "synonymes": [],
+  "seuils": { "sens": 0.7, "partiel": 0.4 },
+  "ia": { "excursion_max": 3, "voisins_min_score": 0.18 }
+}
