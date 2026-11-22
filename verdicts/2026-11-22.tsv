@@ -1,0 +1,6 @@
+temps_ms	note_id	paquet	tapee	attendue	verdict_auto	avis	type
+1795343930958	1793730367793	MAR::SFAR::2025 – TCE, prise en charge neurochirurgicale initiale	traitement conservateur	prise en charge conservatrice	JUSTE	JUSTE	accord
+1795343950366	1794469039498	MAR::Infectio::Endocardite et matériel endovasculaire	linézolide	daptomycine + gentamicine puis rifampicine	FAUX	FAUX	accord
+1795344548399	1794158587633	MAR::SFAR::2016 – Intubation et extubation en réanimation	>0,9	plus de 0,9 mg/kg	PARTIEL	JUSTE	correction
+1795344827021	1794158587491	MAR::SFAR::2016 – ALR périnerveuse	3ml/kg	3 mL/kg	JUSTE	JUSTE	accord
+1795344853909	1794177603657	MAR::SRLF::2025 – Encéphalopathie aiguë sévère en réanimation	hans aven	West-Haven et CASE	FAUX	FAUX	accord
